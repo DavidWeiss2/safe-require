@@ -1,0 +1,23 @@
+{
+  "name": "safe-require",
+  "version": "1.0.0",
+  "description": "\"safe loading packages\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidWeiss2/safe-require.git"
+  },
+  "author": "davidweiss2@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidWeiss2/safe-require/issues"
+  },
+  "homepage": "https://github.com/DavidWeiss2/safe-require#readme",
+  "dependencies": {
+    "node_modules-path": "^2.0.6"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "name": "safe-require",
+  "name": "requirsafe",
   "version": "1.0.0",
   "description": "\"safe loading packages\"",
   "main": "index.js",
